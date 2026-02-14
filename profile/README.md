@@ -21,7 +21,7 @@
 We welcome your contributions!
 
 If you are interesting about our project or have some new idea for them.<br>
-Open pull request and issue freely! We will handle them first time!
+Open pull request and issue freely! We will handle them at the first time!
 
 ### 🧩 Contact us
 
